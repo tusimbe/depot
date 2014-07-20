@@ -1,0 +1,2 @@
+== 20140719060352 CreateProducts: migrating ===================================
+-- create_table(:products)
