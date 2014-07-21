@@ -1,2 +1,6 @@
-== 20140719060352 CreateProducts: migrating ===================================
--- create_table(:products)
+=> Booting WEBrick
+=> Rails 4.1.4 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)
+=> Ctrl-C to shutdown server
+Exiting
